@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gemini Chat</title>
+    <style>
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        textarea { width: 100%; height: 100px; margin: 10px 0; }
+        .response { background: #f0f0f0; padding: 15px; margin: 10px 0; }
+        .history-item { border-bottom: 1px solid #ddd; padding: 10px 0; }
+        .timestamp { color: #666; font-size: 0.9em; }
+        .loading { display: none; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chat with Gemini</h1>
+        
+        <form method="post" id="chat-form" onsubmit="document.getElementById('loading').style.display='block';">
+            {% csrf_token %}
+            <textarea name="query" placeholder="Enter your query..." required></textarea>
+            <button type="submit">Send</button>
+            <div id="loading" class="loading">Loading...</div>
+        </form>
+
+        {% if response %}
+            <div class="response">
+                <strong>Response:</strong><br>
+                {{ response|linebreaks }}
+            </div>
+        {% endif %}
+
+        <h2>History</h2>
+        <div class="history">
+            {% for entry in history %}
+                <div class="history-item">
+                    <div class="timestamp">{{ entry.timestamp|date:"Y-m-d H:i:s" }}</div>
+                    <div><strong>You:</strong> {{ entry.query|linebreaks }}</div>
+                    <div><strong>AI:</strong> {{ entry.response|linebreaks }}</div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script>
+        // Hide loading indicator when page loads or form submission completes
+        window.onload = function() {
+            document.getElementById('loading').style.display = 'none';
+        };
+    </script>
+</body>
+</html>

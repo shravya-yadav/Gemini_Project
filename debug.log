@@ -1,0 +1,44 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4685
+"POST / HTTP/1.1" 200 5135
+"POST / HTTP/1.1" 200 5235
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5608
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 6808
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 6594
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 7088
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 7277
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 8044
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 7755
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 8540
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 8242
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 8242
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 9427
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 9136
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 10233
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 11694
+Sending request to Gemini API
+Received response from Gemini API
+"POST / HTTP/1.1" 200 11971
