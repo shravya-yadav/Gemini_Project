@@ -42,3 +42,729 @@ Received response from Gemini API
 Sending request to Gemini API
 Received response from Gemini API
 "POST / HTTP/1.1" 200 11971
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1370
+"POST / HTTP/1.1" 200 36
+"GET / HTTP/1.1" 200 1370
+"POST / HTTP/1.1" 200 3264
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3560
+"POST /get-response/ HTTP/1.1" 200 81
+"POST /get-response/ HTTP/1.1" 200 81
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4224
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+"GET / HTTP/1.1" 200 4224
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3560
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+Internal Server Error: /get-response/
+"POST /get-response/ HTTP/1.1" 500 193
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3135
+Internal Server Error: /get_response/
+"POST /get_response/ HTTP/1.1" 500 193
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2891
+Internal Server Error: /get_response/
+"POST /get_response/ HTTP/1.1" 500 193
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2891
+Internal Server Error: /get_response/
+"POST /get_response/ HTTP/1.1" 500 193
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1175
+"POST / HTTP/1.1" 200 5123
+- Broken pipe from ('127.0.0.1', 51730)
+"POST / HTTP/1.1" 200 3151
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 21, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 118434
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4603
+Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /accounts/login/ HTTP/1.1" 500 82692
+"GET / HTTP/1.1" 200 3966
+"POST / HTTP/1.1" 200 3970
+"POST / HTTP/1.1" 200 3970
+"POST / HTTP/1.1" 200 4050
+"POST / HTTP/1.1" 200 4050
+"POST / HTTP/1.1" 200 4050
+"POST / HTTP/1.1" 200 4060
+"POST / HTTP/1.1" 200 4060
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST / HTTP/1.1" 200 7454
+"POST / HTTP/1.1" 200 11841
+"POST / HTTP/1.1" 200 28065
+"POST / HTTP/1.1" 200 38334
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 862, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 489, in parse
+    raise self.error(token, e)
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 487, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '\response' from 'item.\response'
+"GET / HTTP/1.1" 500 194737
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 21582
+Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /accounts/login/ HTTP/1.1" 500 82841
+"POST / HTTP/1.1" 200 25257
+"POST / HTTP/1.1" 200 25568
+"POST / HTTP/1.1" 200 28320
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 573, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 230: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 170916
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 573, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 230: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 170916
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'signup' not found. 'signup' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 158021
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'clear_chat' not found. 'clear_chat' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 157515
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 58, in chat_page
+    return render(request, 'chat.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'clear_chat' not found. 'clear_chat' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 157515
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 847
+"GET /static/css/chat.css HTTP/1.1" 200 1439
+Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 70, in clear_chat
+    return redirect('chat')
+           ^^^^^^^^
+NameError: name 'redirect' is not defined
+"POST /clear/ HTTP/1.1" 500 67492
+"POST / HTTP/1.1" 200 847
+"GET /static/css/chat.css HTTP/1.1" 304 0
+Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 70, in clear_chat
+    return redirect('chat')
+           ^^^^^^^^
+NameError: name 'redirect' is not defined
+"POST /clear/ HTTP/1.1" 500 67492
+C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 24360
+"GET /static/css/chat.css HTTP/1.1" 200 1363
+"POST /clear/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1199
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"POST / HTTP/1.1" 200 1413
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"POST / HTTP/1.1" 200 1627
+"GET /static/css/chat.css HTTP/1.1" 304 0
+Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /accounts/login/ HTTP/1.1" 500 82841
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1627
+"GET /static/css/chat.css HTTP/1.1" 304 0
+Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: registration/login.html
+"GET /accounts/login/ HTTP/1.1" 500 82841
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1622
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"POST / HTTP/1.1" 200 5641
+- Broken pipe from ('127.0.0.1', 52623)
+"POST / HTTP/1.1" 200 8667
+"GET /accounts/login/ HTTP/1.1" 200 587
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\Desktop\gemini_project\gemini_project\gemini_app\views.py", line 66, in register_view
+    return render(request, 'register.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yadav\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: register.html
+"GET /register/ HTTP/1.1" 500 82863
+"GET /accounts/login/ HTTP/1.1" 200 587
+"POST / HTTP/1.1" 200 9220
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"POST /clear/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1194
+"GET /register/ HTTP/1.1" 200 601
+"GET /accounts/login/ HTTP/1.1" 200 587
+"GET /register/ HTTP/1.1" 200 601
+"GET /accounts/login/ HTTP/1.1" 200 587
+"GET /accounts/login/ HTTP/1.1" 200 587
+"GET /register/ HTTP/1.1" 200 2199
+"GET /accounts/login/ HTTP/1.1" 200 587
+"GET /accounts/login/ HTTP/1.1" 200 1775
+"GET /register/ HTTP/1.1" 200 2199
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1194
+"GET /static/css/chat.css HTTP/1.1" 200 1377
+"POST / HTTP/1.1" 200 2039
+"POST / HTTP/1.1" 200 2783
+"GET /static/css/chat.css HTTP/1.1" 200 1624
+"POST / HTTP/1.1" 200 3574
+"GET /static/css/chat.css HTTP/1.1" 200 1624
+"POST / HTTP/1.1" 200 4346
+"GET /static/css/chat.css HTTP/1.1" 200 1624
+"POST / HTTP/1.1" 200 5256
+"GET /static/css/chat.css HTTP/1.1" 200 1416
+"POST / HTTP/1.1" 200 6132
+"GET /static/css/chat.css HTTP/1.1" 200 1416
+"POST /clear/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1194
+"GET /static/css/chat.css HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 53378)
+"POST / HTTP/1.1" 200 4137
+"GET /static/css/chat.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4137
+"GET /static/css/chat.css HTTP/1.1" 200 1595
+"GET / HTTP/1.1" 200 4137
+"GET /static/css/chat.css HTTP/1.1" 200 1595
+"GET / HTTP/1.1" 200 4137
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 4137
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 4137
+"GET / HTTP/1.1" 200 4137
+"GET / HTTP/1.1" 200 4208
+"GET /static/css/chat.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 4167
+"GET /static/css/chat.css HTTP/1.1" 304 0
